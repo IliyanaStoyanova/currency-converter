@@ -3,3 +3,9 @@
   background-color: blueviolet;
   font-weight: bold;
 }
+
+div.result {
+  color: green;
+  font-weight: bold;
+  font-size: 1.5em;
+}
