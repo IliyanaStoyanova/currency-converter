@@ -19,9 +19,11 @@ The website is where you can get the exchange rate. Set the amount and select th
 
 ### Start the project
 
-> :white_check_mark: set your API key from https://www.exchangerate-api.com/ in the apiKeys.js file
+> :white_check_mark: set your API key from https://www.exchangerate-api.com/ in the apiKeys.js file <br/>
 > :white_check_mark: open index.html in the browser
 
 ### Screenshots
 
 ---
+- **_Home:_** <br />
+![main](https://github.com/IliyanaStoyanova/currency-converter/assets/52379824/8959de35-dfbe-49fc-8388-9cdaecfea83b)
